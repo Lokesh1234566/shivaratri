@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bubbles img {
+  border-radius: 50%;
+  /* box-shadow: 0 0 0 10px #ff2d7544, 0 0 50px #ff2d75, 0 0 50px #ff2d75; */
+  animation: animate 15s linear infinite;
+  animation-duration: calc(130s / var(--i));
+}
+.bubbles img:nth-child(even) {
+  background-color: #ff2d75;
+  /* box-shadow: 0 0 0 10px #ff2d7544, 0 0 50px #ff2d75, 0 0 50px #ff2d75; */
+}
+
+@keyframes animate {
+  0% {
+    transform: translateY(-10vh) scale(0.9);
+  }
+  100% {
+    transform: translateY(200vh) scale(1.4);
+  }
+}
