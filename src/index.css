@@ -18,6 +18,6 @@
     transform: translateY(-10vh) scale(0.9);
   }
   100% {
-    transform: translateY(200vh) scale(1.4);
+    transform: translateY(350vh) scale(1.4);
   }
 }

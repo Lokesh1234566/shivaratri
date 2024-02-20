@@ -4,6 +4,7 @@ const About = () => {
   return (
     <div className="">
       <div className="flex flex-col justify-center items-center text-center mt-5">
+        <h1 className="text-2xl font-extrabold text-blue-500">About</h1>
         <h1 className="text-red-500 font-bold  sm:text-xl mt-1">
           30 ನೇ ವರ್ಷದ ಶ್ರೀ ಮಲೇ ಮಹದೇಶ್ವರ ಹಾಗೂ ಶ್ರೀ ಗುರು ಸಿದ್ಧಪ್ಪಾಜಿ ಶಿವರಾತ್ರಿ
           ಜಾತ್ರಾಮಹೋತ್ಸವ

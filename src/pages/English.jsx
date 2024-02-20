@@ -4,7 +4,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import mahadeshwara1 from "../assets/images/mahadeshwara1.jpg";
 import siddappaji from "../assets/images/siddappaji.jpg";
-import Animation from "../Components/Animation";
+// import Animation from "../Components/Animation";
 
 const English = () => {
   return (

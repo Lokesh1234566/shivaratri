@@ -4,6 +4,7 @@ const Contact = () => {
   return (
     <div className="mt-5 flex flex-col justify-center items-center text-center gap-4">
       <div className="">
+        <h1 className="text-2xl font-extrabold text-blue-500">Contact</h1>
         <h1 className="text-orange-500 font-semibold text-xl sm:text-2xl m-1">
           ಸೋಮವಾರ,ಶುಕ್ರವಾರ:-
         </h1>

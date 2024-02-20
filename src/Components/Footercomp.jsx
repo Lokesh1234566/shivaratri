@@ -16,9 +16,9 @@ const Footercomp = () => {
               ಮಾಸಂದ್ರು ಗುಡ್ಡೆ ,ಶ್ರೀನಿವಾಸಹಳ್ಳಿ ಹಾಗೂ ಕೆರಳಸಂದ್ರ ಮಧ್ಯ , ಕನಕಪುರ
               ರಾಮನಗರ 562117
             </div>
-            <Footer.Link href="/about">About</Footer.Link>
+            {/* <Footer.Link href="/about">About</Footer.Link> */}
 
-            <Footer.Link href="/contact">Contact</Footer.Link>
+            {/* <Footer.Link href="/contact">Contact</Footer.Link> */}
           </Footer.LinkGroup>
         </div>
         <Footer.Divider />

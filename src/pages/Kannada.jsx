@@ -6,7 +6,7 @@ import siddappaji from "../assets/images/siddappaji.jpg";
 
 const Kannada = () => {
   return (
-    <div className="w-full flex flex-col justify-between">
+    <div className="w-full flex flex-col justify-between ">
       {/* heading */}
       <div className="flex flex-col text-center mt-3">
         <h3 className="text-red-600 font-bold text-xl">ಓಂ ಶ್ರೀ ಗಣಪತಯೇ ನಮಃ</h3>
@@ -48,17 +48,17 @@ const Kannada = () => {
           ಕಾರ್ಯಕ್ರಮದ ವಿವರ :-
         </h1>
         <div className="flex m-4 flex-col flex-wrap justify-center sm:items-center">
-          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl">
+          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl text-center">
             ಬೆಳಗ್ಗೆ 7:30 ಕ್ಕೆ  ದೇವರ ಕಳಶ ಸ್ಥಾಪನೆ
           </h3>
-          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl">
+          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl text-center">
             ಬೆಳಗ್ಗೆ 8 ಕ್ಕೆ ಶ್ರೀ ಗಣಪತಿ ಹೋಮ ಮತ್ತು ನವಗ್ರಹ ಪೂಜೆ
           </h3>
-          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl">
+          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl text-center">
             ಬೆಳಗ್ಗೆ 10 ಕ್ಕೆ ಮಹಾಮಂಗಳಾರತಿ ನಂತರ  ಭಕ್ತಾದಿಗಳಿಂದ ಹಣ್ಣು ಕಾಯಿ ಪೂಜೆ
           </h3>
 
-          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl">
+          <h3 className="text-[#B15662] font-medium text-lg sm:text-xl text-center">
             ಮಧ್ಯಾಹ್ನ 12 ಯಿಂದ 5 ಗಂಟೆ ವಳಗೆ  ಅನ್ನ ದಾಸೋಹ
           </h3>
         </div>
