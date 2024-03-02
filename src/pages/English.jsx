@@ -37,7 +37,7 @@ const English = () => {
             Anna Dasoha
           </h3>
           <h1 className="text-[#EC2151] font-semibold text-lg sm:text-3xl md:mt-2">
-            Date: 10-3-2024 Day: Sunday
+            Date: 11-3-2024 Day: Monday
           </h1>
         </div>
         <img

@@ -32,7 +32,7 @@ const Kannada = () => {
             ಅನ್ನ ದಾಸೋಹ
           </h3>
           <h1 className="text-[#EC2151] font-semibold text-lg sm:text-3xl md:mt-2">
-            Date: 10-3-2024 Day: ಭಾನುವಾರ
+            Date: 11-3-2024 Day: ಸೋಮವಾರ
           </h1>
         </div>
         <img

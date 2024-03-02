@@ -21,13 +21,13 @@ const Header = () => {
 
       <div className="flex gap-3">
         <Link to="/">
-          <Button gradientDuoTone="pinkToOrange" outline>
-            English
+          <Button gradientDuoTone="greenToBlue" outline className="font-bold">
+            ಕನ್ನಡ
           </Button>
         </Link>
-        <Link to="/kannada">
-          <Button gradientDuoTone="tealToLime" outline>
-            Kannada
+        <Link to="/english">
+          <Button gradientDuoTone="pinkToOrange" outline>
+            English
           </Button>
         </Link>
       </div>

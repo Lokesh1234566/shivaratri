@@ -14,7 +14,7 @@ const About = () => {
         </h1>
 
         <h1 className="text-orange-700 font-semibold  sm:text-2xl mt-1">
-          ಭಾನುವಾರ 10-3-2024{" "}
+          ಸೋಮವಾರ 11-3-2024{" "}
         </h1>
 
         <h2 className="text-blue-950 font-extrabold text-xl sm:text-3xl mt-2 md:mt-4">
